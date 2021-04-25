@@ -8,5 +8,5 @@
 			<action id="talk_angrily.swf" name="Angry Talk" loop="Y" totalframe="24" enable="Y" aid="624"/>
 			<action id="talk_neutral.swf" name="Talk" loop="Y" totalframe="24" enable="Y" aid="625"/>
 		<category name="Misbehave">
-			<action id="middle_finger.swf" name="Fuzz You!" loop="Y" totalframe="24" enable="Y" aid="624"/>
+			<action id="middle_finger.swf" name="Fuzz You!" loop="Y" totalframe="24" enable="Y" aid="626"/>
 </theme>
