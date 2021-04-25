@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<theme id="sp" name="South Park>
+<theme id="sp" name="South Park">
 	<char id="cartman" name="Eric Cartman" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="Y" aid="621" money="0" sharing="40">
 		<category name="Basic">
 			<action id="stand.swf" name="Stand" loop="Y" totalframe="24" enable="Y" aid="622"/>
